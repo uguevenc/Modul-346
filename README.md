@@ -8,7 +8,7 @@ CPU and RAM von Host-System:
 
 
 
-Weniger CPU und RAM als Host-System
+Weniger CPU und RAM als Host-System:
 
 ![image](https://github.com/user-attachments/assets/b35abd95-bde3-43b7-bb25-0948436bf7f8)
 ![image](https://github.com/user-attachments/assets/2a59f9cd-4edd-4a4d-855e-af3580f83aa9)
