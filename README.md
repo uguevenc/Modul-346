@@ -11,4 +11,5 @@ Weniger CPU und RAM als Host-System:
 
 Mehr CPU und RAM sind nicht erlaubt. Screenshots:  
 ![image](https://github.com/user-attachments/assets/1ca7f0de-cdcd-4afb-9edf-478523a2e5bf)
-<img width="251" alt="image" src="https://github.com/user-attachments/assets/61e46ab4-6f1d-4bd2-b4c2-3e6dfde9afa4">
+![image](https://github.com/user-attachments/assets/77f53867-bc83-4ffa-bb4b-d5f1cdc82eb5)
+
